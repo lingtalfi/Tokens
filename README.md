@@ -260,14 +260,17 @@ Another implementation
 2016-12-19
 
 Another implementation was introduced, which used the [SequenceMatcher](https://github.com/lingtalfi/SequenceMatcher) technique.
-
-
+It's actually even better, depending on your use case, so be sure to check it out.
 
 
  
  
 History Log
 ------------------
+    
+- 1.3.0 -- 2016-12-29
+
+    - add SequenceMatcher TokenAlternateEntity
     
 - 1.2.0 -- 2016-12-19
 
