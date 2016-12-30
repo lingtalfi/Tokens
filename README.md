@@ -268,6 +268,10 @@ It's actually even better, depending on your use case, so be sure to check it ou
 History Log
 ------------------
     
+- 1.4.0 -- 2016-12-31
+
+    - add UseStatementsUtil
+    
 - 1.3.0 -- 2016-12-29
 
     - add SequenceMatcher TokenAlternateEntity
