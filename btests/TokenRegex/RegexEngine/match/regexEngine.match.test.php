@@ -1,12 +1,12 @@
 <?php
 
 
-use PhpBeast\AuthorTestAggregator;
-use PhpBeast\PrettyTestInterpreter;
-use PhpBeast\Tool\ComparisonErrorTableTool;
-use Tokens\TokenRegex\Element\AtomElement;
-use Tokens\TokenRegex\RegexEngine;
-use Tokens\TokenRegex\TokenModel;
+use Ling\PhpBeast\AuthorTestAggregator;
+use Ling\PhpBeast\PrettyTestInterpreter;
+use Ling\PhpBeast\Tool\ComparisonErrorTableTool;
+use Ling\Tokens\TokenRegex\Element\AtomElement;
+use Ling\Tokens\TokenRegex\RegexEngine;
+use Ling\Tokens\TokenRegex\TokenModel;
 
 
 require_once "bigbang.php";

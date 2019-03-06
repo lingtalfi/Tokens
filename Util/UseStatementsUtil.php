@@ -1,15 +1,15 @@
 <?php
 
 
-namespace Tokens\Util;
+namespace Ling\Tokens\Util;
 
 
-use SequenceMatcher\Model;
-use SequenceMatcher\SequenceMatcher;
-use Tokens\SequenceMatcher\Element\TokenAlternateEntity;
-use Tokens\SequenceMatcher\Element\TokenEntity;
-use Tokens\SequenceMatcher\Element\TokenGreedyEntity;
-use Tokens\Tokens;
+use Ling\SequenceMatcher\Model;
+use Ling\SequenceMatcher\SequenceMatcher;
+use Ling\Tokens\SequenceMatcher\Element\TokenAlternateEntity;
+use Ling\Tokens\SequenceMatcher\Element\TokenEntity;
+use Ling\Tokens\SequenceMatcher\Element\TokenGreedyEntity;
+use Ling\Tokens\Tokens;
 
 class UseStatementsUtil
 {

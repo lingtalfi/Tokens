@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Tokens\SequenceMatcher\Element;
+namespace Ling\Tokens\SequenceMatcher\Element;
 
-use SequenceMatcher\Element\EntityInterface;
+use Ling\SequenceMatcher\Element\EntityInterface;
 
 class TokenEntity implements EntityInterface
 {

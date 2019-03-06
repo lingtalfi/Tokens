@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Tokens;
+namespace Ling\Tokens;
 
 
 /**

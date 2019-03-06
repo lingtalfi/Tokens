@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Tokens\SequenceMatcher\Util;
+namespace Ling\Tokens\SequenceMatcher\Util;
 
 
-use Tokens\Util\TokenUtil;
+use Ling\Tokens\Util\TokenUtil;
 
 class TokensSequenceMatcherUtil
 {

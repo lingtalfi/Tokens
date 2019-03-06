@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Tokens\Util;
+namespace Ling\Tokens\Util;
 
 /**
  * tools that apply to one token

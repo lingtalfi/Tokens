@@ -15,7 +15,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import Tokens
+uni import Ling/Tokens
 ```
 
 
@@ -112,10 +112,10 @@ Here is the code to execute, which uses the TokenRepresentation object.
 ```php
 <?php
 
-use Tokens\TokenRepresentation\ReplacementSequence;
-use Tokens\TokenRepresentation\ReplacementSequenceToken;
-use Tokens\TokenRepresentation\TokenRepresentation;
-use Tokens\Tokens;
+use Ling\Tokens\TokenRepresentation\ReplacementSequence;
+use Ling\Tokens\TokenRepresentation\ReplacementSequenceToken;
+use Ling\Tokens\TokenRepresentation\TokenRepresentation;
+use Ling\Tokens\Tokens;
 
 
 $src = "/pathto/app-nullos/lang/ch/modules/sqlTools/sqlTools.php";
@@ -176,11 +176,11 @@ Since 1.1.0, there is a newer easier way to do so:
 ```php
 <?php
 
-use Tokens\TokenRepresentation\ReplacementSequence;
-use Tokens\TokenRepresentation\ReplacementSequenceToken;
-use Tokens\TokenRepresentation\TokenRepresentation;
-use Tokens\Tokens;
-use Tokens\Util\TokenUtil;
+use Ling\Tokens\TokenRepresentation\ReplacementSequence;
+use Ling\Tokens\TokenRepresentation\ReplacementSequenceToken;
+use Ling\Tokens\TokenRepresentation\TokenRepresentation;
+use Ling\Tokens\Tokens;
+use Ling\Tokens\Util\TokenUtil;
 
 
 $src = "/pathto/app-nullos/lang/ch/modules/sqlTools/sqlTools.php";

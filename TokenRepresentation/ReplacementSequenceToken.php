@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Tokens\TokenRepresentation;
+namespace Ling\Tokens\TokenRepresentation;
 
 
 class ReplacementSequenceToken
